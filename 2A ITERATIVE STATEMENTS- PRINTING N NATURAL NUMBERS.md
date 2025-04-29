@@ -32,6 +32,6 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ```
 ### RESULT
 ```
-
+Thus a Python program for printing `n` natural numbers using a `for` loop has been implemented and executed successfully.
 ```
 
