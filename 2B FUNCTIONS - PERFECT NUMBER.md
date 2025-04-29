@@ -22,14 +22,17 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-#Reg.No:
-#Name:
-#Add your Code Here
+n=int(input())
+print("Natural Numbers are :")
+for i in range(1,n+1):
+   
+    print(i)
+
 
 ```
 ### OUTPUT
 ```
-![image](https://github.com/user-attachments/assets/1038f3b6-31a3-4aec-8668-622b3dd5dc9a)
+![image](https://github.com/user-attachments/assets/1468bde4-44c1-4bbe-9a21-3b82714818da)
 
 ```
 
