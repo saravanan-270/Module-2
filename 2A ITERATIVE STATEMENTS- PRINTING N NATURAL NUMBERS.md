@@ -28,6 +28,7 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ```
 ### OUTPUT
 ```
+![image](https://github.com/user-attachments/assets/1c7bf887-7cf5-4553-a64b-5317288a86a9)
 
 ```
 ### RESULT
