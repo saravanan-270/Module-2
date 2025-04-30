@@ -31,10 +31,8 @@ for i in range(1,n+1):
 
 ```
 ### OUTPUT
-```
-![image](https://github.com/user-attachments/assets/1468bde4-44c1-4bbe-9a21-3b82714818da)
+![image](https://github.com/user-attachments/assets/9d863f7e-64ca-4bae-b47d-ad163a3f393e)
 
-```
 
 ### RESULT
 ```
