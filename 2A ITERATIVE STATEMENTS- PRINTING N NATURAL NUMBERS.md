@@ -29,10 +29,10 @@ for i in range(1,n+1):
 
 ```
 ### OUTPUT
-```
-![438116636-60426858-7439-410f-af1d-7bbd8c2859f8](https://github.com/user-attachments/assets/2e9d9030-1e08-45eb-8b5b-f0634d4ccd34)
+![438116636-60426858-7439-410f-af1d-7bbd8c2859f8](https://github.com/user-attachments/assets/330ab5e5-481d-4e97-9240-150a1e61a38c)
 
-```
+
+
 ### RESULT
 ```
 Thus a Python program for printing `n` natural numbers using a `for` loop has been implemented and executed successfully.
