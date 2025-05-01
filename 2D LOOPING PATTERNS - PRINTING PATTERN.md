@@ -39,9 +39,9 @@ for i in range(0,a):
 ```
 
 ### OUTPUT
-```
+
 ![image](https://github.com/user-attachments/assets/0bb5b087-578c-477a-8373-f6004ab6a55b)
-```
+
 
 ### RESULT
 ```
