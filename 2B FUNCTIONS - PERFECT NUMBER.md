@@ -22,11 +22,18 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-n=int(input())
-print("Natural Numbers are :")
-for i in range(1,n+1):
-   
-    print(i)
+number = int(input("Enter a number: "))
+divisors_sum = 0
+
+for i in range(1, number):
+    if number % i == 0:
+        divisors_sum += i
+
+if divisors_sum == number:
+    print("The number", number, "is a Perfect number!")
+else:
+    print("The number", number, "is not a Perfect number!")
+
 
 
 ```
