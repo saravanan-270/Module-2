@@ -34,10 +34,8 @@ else:
 
 ### OUTPUT
 
-```
-![438116636-60426858-7439-410f-af1d-7bbd8c2859f8](https://github.com/user-attachments/assets/b0735037-89c0-421c-a990-21fc17be2200)
+![image](https://github.com/user-attachments/assets/6e67c26d-dc94-4b05-83e5-ecdb0c737c5b)
 
-```
 
 ### RESULT
 
