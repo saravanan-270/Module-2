@@ -29,10 +29,10 @@ print("Power of the given number is:",power(a,b))
 ```
 ### OUTPUT
 
-```
+
 ![image](https://github.com/user-attachments/assets/e0e7fdf0-b8fa-4d9d-b4c9-5381e9ac4c06)
 
-```
+
 
 ### RESULT
 
