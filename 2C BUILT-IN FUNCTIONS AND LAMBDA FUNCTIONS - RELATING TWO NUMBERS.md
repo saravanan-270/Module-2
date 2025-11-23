@@ -11,7 +11,7 @@ To write a Python program to check the relation between two numbers — whether 
 ### ALGORITHM
 
 1. Begin the program.  
-2. Use `eval()` to get two numbers (`num1` and `num2`) from the user.  
+2. Use `int(input())` to get two numbers (`num1` and `num2`) from the user.  
 3. Define a lambda function `max` that takes two arguments `x` and `y`.  
 4. The lambda function compares the numbers and prints:
    - If `x > y`, then it prints: "`num2` is smaller than `num1`".
@@ -22,25 +22,23 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM
+```python
+num1 = int(input())
+num2 = int(input())
+find_smaller = lambda x, y: x if x<y else y
+smaller_number = find_smaller(num1,num2)
+print(f"{num1} is smaller than {num2}")
+```
 
-```
-x=int(input())
-y=int(input())
-if(x<y):
-    print(x,"is smaller than",y)
-else:
-    print(y,"is smaller than",x)
-```
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/6e67c26d-dc94-4b05-83e5-ecdb0c737c5b)
+<img width="601" height="187" alt="image" src="https://github.com/user-attachments/assets/0cf130c5-f1b6-4350-939f-5d11479475ac" />
+
+
 
 
 ### RESULT
 
-```
-Thus a Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function.
-has been implemented and executed successfully.
 
-```
+Thus the python program for check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function has been implemented and executed successfully.
